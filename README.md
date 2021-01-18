@@ -1,4 +1,5 @@
-###Hangman Game
+# Hangman Game
+
 
 ### Project description: 
 * Hangman is a word game where the goal is simply to find the missing word or words.You will be presented with a number of blank spaces representing the missing letters you need to find.
