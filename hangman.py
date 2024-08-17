@@ -1,7 +1,7 @@
 import random
 import sys
 
-
+"""ts"""
 def read_file(file_name):
     """Open file reading line by line, 
        Store results as a list
